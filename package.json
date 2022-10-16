@@ -1,0 +1,22 @@
+{
+  "name": "assign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoFlash/assign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoFlash/assign/issues"
+  },
+  "homepage": "https://github.com/LeoFlash/assign#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
